@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="175588" started-at="2022-03-11T17:50:51Z" finished-at="2022-03-11T17:53:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="175588" started-at="2022-03-11T17:50:51Z" finished-at="2022-03-11T17:53:46Z">
+      <class name="FlipkartProject.FlipkartValidation.ValidateHomePage">
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:FlipkartProject.FlipkartValidation.ValidateHomePage@57829d67]" name="startDriver" is-config="true" duration-ms="48475" started-at="2022-03-11T23:20:51Z" finished-at="2022-03-11T23:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:FlipkartProject.FlipkartValidation.ValidateHomePage@57829d67]" name="validateHomePage" duration-ms="117015" started-at="2022-03-11T23:21:39Z" finished-at="2022-03-11T23:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:FlipkartProject.FlipkartValidation.ValidateHomePage@57829d67]" name="stopDriver" is-config="true" duration-ms="10098" started-at="2022-03-11T23:23:36Z" finished-at="2022-03-11T23:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- FlipkartProject.FlipkartValidation.ValidateHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
